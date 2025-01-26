@@ -16,7 +16,7 @@ This project is a web-based application that predicts whether a person has diabe
 
 ## Project Overview
 
-This app utilizes a machine learning model trained on the Pima Indians Diabetes Database to predict whether a person is likely to have diabetes based on the following health attributes:
+This app utilizes a machine learning model trained on the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). to predict whether a person is likely to have diabetes based on the following health attributes:
 
 - Number of pregnancies
 - Plasma glucose concentration
@@ -61,7 +61,7 @@ Run the following script to train the model:
 ```bash
 python train_model.py
 ```
-This will create the necessary model and scaler files under the models/ directory.
+This will create the necessary model and scaler files under the models/ directory. (Note : please update the directory path according to your local set up)
 
 ## Run the Application
 To run the app locally, use the following command:
