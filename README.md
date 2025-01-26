@@ -2,6 +2,8 @@
 
 This project is a web-based application that predicts whether a person has diabetes based on various health parameters using a Logistic Regression algorithm.
 
+![result GIF](https://github.com/Torajabu/diabetes-prediction-app---logistic-regression./blob/main/frontendFirefoxDeveloperEdition2025-01-2609-31-57-ezgif.com-video-to-gif-converter(1).gif)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
