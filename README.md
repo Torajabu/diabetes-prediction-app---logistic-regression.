@@ -6,7 +6,7 @@ This project is a web-based application that predicts whether a person has diabe
 
 
 ## Data Flow Diagram and System Architecture 
-![Dfd](https://github.com/Torajabu/diabetes-prediction-app---logistic-regression./blob/main/arch.svg)
+[![Dfd](https://github.com/Torajabu/diabetes-prediction-app---logistic-regression./blob/main/arch.svg)](https://github.com/Torajabu/diabetes-prediction-app---logistic-regression./blob/main/arch.svg)
 
 ## Table of Contents
 
